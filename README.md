@@ -28,7 +28,7 @@ This repository contains a comprehensive collection of Python-based implementati
 
 ---
 
-###  Image Processing Projects
+###  Image Processing Files
 
 | File                             | Description                                      |
 |----------------------------------|--------------------------------------------------|
@@ -47,7 +47,7 @@ This repository contains a comprehensive collection of Python-based implementati
 
 ---
 
-## Technologies Used
+## Software and libraries used
 
 - Python 3.12
 - NumPy
